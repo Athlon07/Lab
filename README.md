@@ -1,2 +1,2 @@
 # Lab
-This is m first assignment using github in this semester
+This is my first assignment using github in this semester
